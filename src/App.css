@@ -1,0 +1,17 @@
+/* Global styles for the App component */
+.app-container {
+  min-height: 100vh;
+  background-color: #FFFDD0; /* Cream White */
+  font-family: 'Arial', sans-serif;
+  color: #6B4E31; /* Olive Brown */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Ensure content is responsive */
+@media (max-width: 768px) {
+  .app-container {
+    padding: 1rem;
+  }
+}
