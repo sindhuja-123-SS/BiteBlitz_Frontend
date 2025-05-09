@@ -2,7 +2,7 @@
     padding: 2rem;
     background-color: #FFFDD0; /* Cream White */
     min-height: 100vh;
-    text-align: center;
+    text-align:  center;
   }
   
   .cart-title {
@@ -10,6 +10,7 @@
     color: #6B4E31; /* Olive Brown */
     margin-bottom: 2rem;
   }
+     
   
   .empty-cart {
     font-size: 1.2rem;
